@@ -1,15 +1,18 @@
-# Publicação do Raio-X no GitHub Pages
+# Raio-X do Ecossistema de Carreira
 
-## Publicar
+Site estático do MVP Sem Rodeios.
 
-1. No GitHub, crie um repositório **público** chamado `raio-x-ecossistema-carreira`.
-2. Envie para a raiz do repositório os arquivos `index.html`, `app.js`, `styles.css` e `.nojekyll` desta pasta.
-3. Em **Settings → Pages**, escolha **Deploy from a branch**, selecione a branch `main` e a pasta `/ (root)`, e salve.
-4. Quando o GitHub Pages concluir a publicação, o endereço esperado será `https://rodeiomariana.github.io/raio-x-ecossistema-carreira/`.
+## Publicação
 
-Não altere o repositório `rodeiomariana.github.io`: ele contém o site pessoal existente.
+Os arquivos do site já estão na raiz deste repositório. Para publicar:
+
+1. Abra **Settings → Pages**.
+2. Em **Build and deployment**, selecione **Deploy from a branch**.
+3. Escolha a branch **main** e a pasta **/(root)**; salve.
+4. Aguarde a conclusão da publicação.
+
+Endereço esperado: https://rodeiomariana.github.io/site/
 
 ## Dados dos testes
 
-Este MVP não tem servidor nem banco de dados. As respostas, o diagnóstico e o acompanhamento ficam no armazenamento local do navegador de cada pessoa e não são enviados para você. Para receber feedback, peça que os participantes enviem suas impressões separadamente.
-
+O MVP não tem servidor nem banco de dados. As respostas, o diagnóstico e o acompanhamento ficam no armazenamento local do navegador de cada pessoa e não são enviados para você. Para receber feedback, peça que os participantes enviem suas impressões separadamente.
